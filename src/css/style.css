@@ -1,0 +1,22 @@
+
+*{
+    padding:0;
+    background:0;
+    margin:0;
+}
+body{
+    background:grey;
+}
+
+.titulo{
+    padding:20px;
+    background:#610202;
+    font-size:2rem;
+}
+.sobre{
+    margin-top:70px;
+    text-align:center;
+    margin:40px;
+    margin-top:50px;
+    
+}
